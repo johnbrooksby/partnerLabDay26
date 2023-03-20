@@ -19,3 +19,7 @@ test('should add num1 and num2', () => {
 test('should add num1 and num2', () => {
     expect(add(5, 9)).toEqual(14)
 })
+
+test('should add num1 and num2', () => {
+    expect(add(6, 9)).toEqual(15)
+})
